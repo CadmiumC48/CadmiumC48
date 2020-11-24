@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on _**various different projects like `SOME SORT OF NEW OPERATING SYSTEM`**_.
+- 🔭 I’m currently working on _**various different projects like `SOME SORT OF SINGING SPEECH SYNTHESISER`**_.
 - 🌱 I’m currently learning _**C++**_
 - 🤔 I’m looking for help with **`Java` and `C++`**
 - 💬 Ask me about **.NET** and **What the (...) you want!**
